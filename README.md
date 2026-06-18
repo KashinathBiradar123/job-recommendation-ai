@@ -29,6 +29,8 @@ An AI-powered job recommendation platform that analyzes resumes, matches jobs, d
 - Node.js 18+ ([download](https://nodejs.org))
 
 ---
+(https://careergenie-frontend-od87.onrender.com)
+
 
 ### Option 1: Manual Setup (Recommended for VS Code)
 
